@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.Exception;
-public class panangram {
+public class pangram {
 
 	public static void main(String[] args) {
 		Runnable mega=() -> {
